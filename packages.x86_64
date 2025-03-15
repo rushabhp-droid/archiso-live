@@ -126,6 +126,7 @@ wvdial
 xfsprogs
 xl2tpd
 zsh
+git
 
 
 # Intel Drivers
@@ -145,8 +146,54 @@ pavucontrol
 
 # Display Manager
 sddm
-sddm-kcm
+qt6-svg
+qt6-virtualkeyboard
 
-# KDE
-plasma-meta
+# Hyprland
+hyprland-git
+hyprpaper-git
+uwsm
+firedragon
+ttf-jetbrains-mono-nerd
+rofi-wayland
+hyprlock-git
+hypridle-git
+thunar
+thunar-volman
+thunar-archive-plugin
+gvfs
+gvfs-mtp
+ark
+btop
+nwg-look
+swaync
+xdg-desktop-portal-hyprland-git
+xdg-desktop-portal-gtk
+xdg-user-dirs
+qt6-wayland
+qt5-wayland
+qt5ct
+qt6ct
+starship
+yay-git
+waybar
+otf-font-awesome
+rust
+go
+clang
+llvm
+zed
+rsync
+reflector
+hyprshot
+bash-completion
+base-devel
+noto-fonts
+noto-fonts-cjk
+noto-fonts-emoji
+noto-fonts-extra
+sweet-gtk-theme
+beautyline
 alacritty
+chaotic-mirrorlist
+chaotic-keyring
